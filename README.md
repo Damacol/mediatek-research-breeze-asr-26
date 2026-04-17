@@ -61,3 +61,4 @@ If you value AI that respects your time, privacy, and creative freedom:
 > [Open Venice](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
 
 [![Visits](https://komarev.com/ghpvc/?username=damacol&label=Visits&color=blue&style=flat-square)](https://github.com/Damacol/mediatek-research-breeze-asr-26)
+> Part of the Damacol AI Network | [Browse 1500+ Models](https://github.com/Damacol/ai-hub)
