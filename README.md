@@ -13,10 +13,6 @@
 Most AI platforms trade your data for convenience. They track, filter, and restrict.
 **Venice flips the script:** your prompts stay local, your ideas aren't policed, and you get fast, unfiltered responses without the corporate overhead.
 
-This repo is a curated starting point for devs, writers, researchers, and privacy-first users who want AI that actually *works with* them, not against them.
-
----
-
 ## Core Features
 | Feature | What It Means for You |
 |---------|----------------------|
